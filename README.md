@@ -1,5 +1,9 @@
 # Waited 13 Years — a GTA 6 meme for make.fun
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/irawanjong-commits/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/irawanjong-commits/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **gta6-meme-x-01** ("Post a GTA 6 meme on X") by @wilie-cullen.
 
 The entry is a public post on X by @Wilayyyy:
@@ -22,6 +26,10 @@ directory. Run it with:
 ```
 MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tdkggc6z&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
 
 ## Verified before submitting
 
