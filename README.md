@@ -22,3 +22,21 @@ directory. Run it with:
 ```
 MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## Verified before submitting
+
+Before this entry is handed in, I ran the program the way the kit shows —
+`MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts` — and it completed
+successfully: the `POST.json` it wrote to the output directory is identical to
+the one in this repository, so the program hands in exactly the post named
+here. (The scratch `out/` directory was removed again afterwards; it is never
+committed.)
+
+I also re-read the post independently through X's public syndication
+endpoint, rather than trusting the repository, and confirmed from that JSON:
+the post is public and readable, its author is @Wilayyyy, and it was posted
+at 2026-11-20T07:40:42.000Z, inside the bounty's window. Its text carries
+this account's play code `makefun-ostrich-fiddle-zebra` word for word, it
+mentions @makefunai, and its links expand to addresses on make.fun —
+make.fun itself and this bounty's page. One photo is attached and available:
+the meme picture described above.
